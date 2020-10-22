@@ -1,0 +1,8 @@
+.notFound {
+  color: #fff;
+  background-color: red;
+}
+
+.found {
+  background-color: green;
+}
